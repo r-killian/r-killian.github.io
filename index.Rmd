@@ -1,7 +1,29 @@
 ---
-title: "Holy cow!"
+title: "P8105 HW 4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-### I have a webpage!
+# Welcome to Rose Killian's website!
 
-And I can put all kinds of stuff on it!
+![](https://media.giphy.com/media/o2f9sOJ4WcMqeyR1cY/giphy.gif)
+
+This may become more professional looking in the future, but for now I'll show a few things I know how to do.
+
+Here is a link to my [about](about.html) page with my resume.
+
+
+## Grizzly
+This is Grizzly. He is a Very Good Boy!
+
+<img src="images/good_good_boy.jpg" style="width:75%">
+
+
+## Some rad art
+Here is a bit of art done by an artist I like:
+
+<img src="images/capybara_ramen.jpg" style="width:75%">
+
+And a link to her [website](https://www.dawningcrow.com/)
