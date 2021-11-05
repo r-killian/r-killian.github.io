@@ -12,7 +12,7 @@ output:
 
 This may become more professional looking in the future, but for now I'll show a few things I know how to do.
 
-Here is a link to my [about](about.html) page with my resume.
+Here is a link to my [about](about.html) page.
 
 
 ## Grizzly

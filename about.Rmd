@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 output: 
   html_document:
     toc: true
@@ -8,4 +8,65 @@ output:
 
 This page contains some of my professional history.
 
-Here's a link back to the [index](index.html) page
+# Rose Killian
+Phone: (954) 812-4447
+
+Email: KillianRoseM@gmail.com
+
+$~$
+
+## Education
+
+
+### Columbia University School of Public Health, MPH
+
+September 2020 - Expected graduation May 2022
+
+* Department: Epidemiology
+* Certificate: Applied Biostatistics and Public Health Data Science
+* Relevant Courses: Application of Epidemiologic Research Methods, Analysis of Categorical Data, Applied Regression I and II, **Data Science**, Public Health GIS, Determinants of Health
+
+$~$
+
+### University of Miami, Bachelor's of Science, Biology
+August 2013 - December 2015
+
+* Minors in Chemistry and Psychology
+* Graduated: President’s Honor Roll, Provost's Honor Rolls, and Dean’s List
+
+$~$
+
+### Broward College, Associate of Arts, Biology
+August 2011 - May 2013
+
+* Dual-enrollment program: Associate’s earned alongside high school diploma
+
+$~$
+
+$~$
+
+## Experience
+
+
+### ICAP at Columbia University, New York, NY *Research Assistant*
+June 2018 - Ongoing
+
+* Summer practicum experience with ICAP at Columbia University.
+* Worked with a mentor to determine gaps in existing literature regarding syphilis and HIV/syphilis coinfection.
+* Utilizing the PHIA dataset, wrote SAS code for statistical analysis including multivariable regression models for 5 countries in Sub-Saharan Africa.
+* Drafted manuscript for publication in peer-reviewed journals, including tables and figures of analysis.
+
+$~$
+
+$~$
+
+## Skills
+
+* Made this *rad* website
+* Data collection and analysis skills, including SAS and R
+* Proficient in Microsoft Office (Word, Excel, PowerPoint)
+* Audio transcription and clerical skills
+* Experienced with Electronic Medical Record (EMR) program EPIC
+
+
+Here's a link back to the [home](index.html) page
