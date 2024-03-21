@@ -1,25 +1,25 @@
 ---
-title: "Rose Killian, MPH"
+title: "Grizzly"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Grizzly
+## The best boy
 This is Grizzly. He is a very good sweet boy who I feel deserves his own page. 
 
 <img src="images/good_good_boy.jpg" style="width:75%">
 
 
-## Grizzly's interests
+### Grizzly's interests
 
 * Relaxing in the grass on a sunny day
 * Staring at me, upside down
 * Trying to convince people he **is** a lap dog, and should be allowed to sit on you
 * Deli ham
 
-## Illegal acts, according to Grizzly
+### Illegal acts, according to Grizzly
 
 * Leaving the house (unless for walks)
 * Loud noise

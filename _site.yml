@@ -9,7 +9,7 @@ navbar:
           href: about.html
         - text: "Dog"
           href: grizzly.html
-    - text: "Sample Work"
+    - text: "Projects"
       menu:
         - text: "Citibike Project"
           href: https://jessrosenberg14.github.io/nyccitibikes.github.io/index.html
