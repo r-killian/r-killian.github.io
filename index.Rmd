@@ -1,29 +1,31 @@
 ---
-title: "P8105 HW 4"
+title: "Rose Killian, MPH"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Welcome to Rose Killian's website!
+# Welcome! Please, call me Rosie.
 
 ![](https://media.giphy.com/media/o2f9sOJ4WcMqeyR1cY/giphy.gif)
 
-This may become more professional looking in the future, but for now I'll show a few things I know how to do.
+I am a researcher and epidemiologist, currently working as a biostatistican (so many hats, too many syllables!) in sunny Miami, FL.
 
-Here is a link to my [about](about.html) page.
+You can find my resume/CV [here](about.html), but if you want to know a little more about me I'm happy to elaborate below.
+
+# About Me
+
+I grew up in South Florida, attending University of Miami for undergrad (majored in biology) before working in a level one trauma center as a medical scribe for about two years post-graduation. I managed to escape to the Northeast for graduate school (yay, snow!) before finding myself back at my Alma Mater for a research job. Funny how that sort of thing works.
+
+Working in the emergency department of a large public hospital made me much more cognizant of the struggles in the US with health equity and access. This was compounded by my realization after I left that job to care for my grandmother that issues with access extend beyond simply whether or not someone has the ability to pay. Having both the knowledge and means to navigate the healthcare system is an incredible privilege. I applied for public health programs in part to gain the skills to address the issues of equity of access and outcome that hamper both our healthcare as well as our society at large. While largely focused on health outcomes, I am drawn to projects and organizations that aim to improve the lives of others in all aspects of life. Equity is the goal. Also, healthcare is a human right. In case that wasn't clear. 
+
+When I'm not up on my public health soapbox, you can usually find me:
+
+* Reading a bevy of fantasy books (I feed fiction through my brain like wood into a wood chipper)
+* Scheming with friends about the trials and tribulations of our TTRPG characters and what sorts of problems they are going to cause next
+* Trying out new recipes (this [adegashi tofu](https://www.justonecookbook.com/agedashi-tofu-2/) looks incredible)
+* Walking the [dog](grizzly.html)
+* And lately, striving to reach quota in Lethal Company
 
 
-## Grizzly
-This is Grizzly. He is a Very Good Boy!
-
-<img src="images/good_good_boy.jpg" style="width:75%">
-
-
-## Some rad art
-Here is a bit of art done by an artist I like:
-
-<img src="images/capybara_ramen.jpg" style="width:75%">
-
-And a link to her [website](https://www.dawningcrow.com/)

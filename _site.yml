@@ -3,10 +3,18 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
-    - text: "Dashboard"
-      href: dashboard.html
+    - text: "About Me"
+      menu:
+        - text: "Resume/CV"
+          href: about.html
+        - text: "Dog"
+          href: grizzly.html
+    - text: "Sample Work"
+      menu:
+        - text: "Citibike Project"
+          href: https://jessrosenberg14.github.io/nyccitibikes.github.io/index.html
+        - text: "P8105 HW #4"
+          href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:KillianRoseM@gmail.com
     - icon: fa-github fa-lg

@@ -1,17 +1,45 @@
 ---
-title: "About Me"
+title: "Rose Killian, MPH"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-This page contains some of my professional history.
-
-# Rose Killian
+## Contact Info
 Phone: (954) 812-4447
 
 Email: KillianRoseM@gmail.com
+
+$~$
+
+## Skills
+
+* Data collection and analysis skills, including SAS, R, Python, and SQL
+* REDCap (Research Electronic Data Capture)
+* Proficient in Microsoft Office (Word, Excel, PowerPoint)
+* Experience with Linux command line
+
+$~$
+
+## Accomplishments and Presentations
+
+
+### Columbia University Data Science Institute
+
+Best Data Science Student Course Project 2022
+
+* Winner of best data science project among Columbia students for work [visualizing transit and CitiBike changes in NYC due to COVID-19](https://jessrosenberg14.github.io/nyccitibikes.github.io/index.html).
+
+$~$
+
+### Conference on Retroviruses and Opportunistic Infections (CROI)
+
+Oral Presentation February 2022
+
+* Gave oral presentation on findings from paper on Syphilis and HIV/Syphilis co-infection in 4 Sub-Saharan countries ahead of paper publication.
+
+$~$
 
 $~$
 
@@ -20,11 +48,12 @@ $~$
 
 ### Columbia University School of Public Health, MPH
 
-September 2020 - Expected graduation May 2022
+September 2020 - May 2022
 
 * Department: Epidemiology
 * Certificate: Applied Biostatistics and Public Health Data Science
-* Relevant Courses: Application of Epidemiologic Research Methods, Analysis of Categorical Data, Applied Regression I and II, **Data Science**, Public Health GIS, Determinants of Health
+* Relevant Courses: Relevant Courses: Application of Epidemiologic Research Methods, Analysis of Categorical Data, Applied Regression I and II, Data Science, Machine Learning for Epidemiology, Latent Variable Measurement and Structural Equation Modeling in the Health Sciences, Public Health GIS, Determinants of Health
+* GPA: 4.09
 
 $~$
 
@@ -33,6 +62,7 @@ August 2013 - December 2015
 
 * Minors in Chemistry and Psychology
 * Graduated: President’s Honor Roll, Provost's Honor Rolls, and Dean’s List
+* GPA: 3.66
 
 $~$
 
@@ -47,26 +77,37 @@ $~$
 
 ## Experience
 
+### University of Miami, Miami, FL *Biostatistician*
+February 2023 - Present
+
+* Full-time biostatistician I at Hussman Institute of Human Genomics, working primarily on genetic and clinical studies related to Irritable Bowel Disease (IBD).
+* Quickly familiarized myself with data structure and organization across three RedCap projects with total participant count exceeding 3,800 and over 3,000 fields. Implemented data verification methods and quality control checks for collected data.
+* Responsible for creation of data analysis plans for a wide array of projects ranging from case-control to longitudinal cohort studies.
+* Responsible for results, tables, and figures of analysis for publication in peer-reviewed journals and for conferences.
+
+$~$
 
 ### ICAP at Columbia University, New York, NY *Research Assistant*
-June 2018 - Ongoing
+June 2021 - November 2022
 
-* Summer practicum experience with ICAP at Columbia University.
-* Worked with a mentor to determine gaps in existing literature regarding syphilis and HIV/syphilis coinfection.
-* Utilizing the PHIA dataset, wrote SAS code for statistical analysis including multivariable regression models for 5 countries in Sub-Saharan Africa.
+* Determined gaps in existing literature regarding syphilis and HIV/syphilis coinfection alongside mentor.
+* Wrote original SAS code for statistical analysis including multivariable regression models for 5 countries in Sub-Saharan Africa, utilizing the PHIA dataset containing 102,831 observations.
 * Drafted manuscript for publication in peer-reviewed journals, including tables and figures of analysis.
+* Presented findings of this study in oral presentation at CROI 2022 and in poster presentation at NYC Epidemiology Forum 2022.
 
 $~$
 
+### Caretaker, Elkton, MD 
+November 2018 - May 2019
+
+* Managed care for my grandmother across 5 specialists while she was recovering from pneumonia and after surgery until her passing in May 2019.
+* Organized regimen of 16 medications and created a streamlined schedule to prevent double or missed dosing and improve overall compliance with prescribed treatment plan.
+
 $~$
 
-## Skills
+### PhysAssist Scribes, Hollywood, FL *Medical Scribe*
+February 2017 - October 2019
 
-* Made this *rad* website
-* Data collection and analysis skills, including SAS and R
-* Proficient in Microsoft Office (Word, Excel, PowerPoint)
-* Audio transcription and clerical skills
-* Experienced with Electronic Medical Record (EMR) program EPIC
-
-
-Here's a link back to the [home](index.html) page
+* Full-time 40 to 60 hours per week
+* Charted physician-patient encounters in the Emergency Room, averaging 3 to 6 patients per hour.
+* Gathered and organized patient information, including patient history, changes in patient condition, consult calls, and medical decision making.
